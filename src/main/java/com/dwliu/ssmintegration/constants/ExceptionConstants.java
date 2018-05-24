@@ -17,4 +17,5 @@ public interface ExceptionConstants {
     String READ_FILE_EXCEPTION="读取文件出错";
     String WRITE_FILE_EXCEPTION="写文件出错";
     String READ_EXCEL_EXCEPTION="读取EXCEL文件出错";
+    String UNPACK_ERROR = "解压文件失败";
 }
